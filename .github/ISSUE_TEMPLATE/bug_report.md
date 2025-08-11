@@ -7,13 +7,6 @@ assignees: ''
 
 ---
 
----
-name: Bug Report
-description: [버그 내용 간략히 설명]
-type: [Bug]
-assignees: [담당자명]
----
-
 ## Bug Description
      버그 내용 상세 설명
 
