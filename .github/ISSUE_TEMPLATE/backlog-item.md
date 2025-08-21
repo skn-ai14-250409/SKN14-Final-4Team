@@ -15,6 +15,11 @@ assignees: ''
 - [ ] Criterion 2
 - [ ] Criterion 3
 
+## To-do
+- [ ] Task 1
+- [ ] Task 2
+- [ ] Task 3
+
 ## 우선순위
      (예: 높음, 중간, 낮음)
 
