@@ -1,0 +1,24 @@
+# 핵심 의존성
+pinecone-client
+sentence-transformers
+python-dotenv
+langchain
+langchain-openai
+langchain-core
+
+# 데이터 처리
+pandas
+numpy
+
+# 테스트
+pytest
+pytest-mock
+
+# 진행률 표시
+tqdm
+
+# 로깅
+colorlog
+
+# 타입 힌트
+typing-extensions
